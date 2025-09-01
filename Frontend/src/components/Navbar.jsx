@@ -19,7 +19,7 @@ const Navbar = () => {
   }, []);
 
   const handlePanelClick = () => {
-    window.location.href = "http://localhost:5174";
+    window.location.href = "https://prescripto-admin-nz2v.onrender.com";
 
   };
 
